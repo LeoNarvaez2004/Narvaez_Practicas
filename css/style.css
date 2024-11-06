@@ -1,9 +1,22 @@
-body{
-    background-color:turquoise;
-    font-family:Arial, Helvetica, sans-serif;
-    font-size: 30px;
+body {
+    background-color: turquoise;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30 px;
+}
+p {
+    color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:large;
     text-align: justify;
 }
-strong{
-    color:brown;
+
+strong {
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font size: 20 px;
+}
+ul{
+    color:greenyellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30 px;
 }
